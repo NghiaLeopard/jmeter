@@ -1,4 +1,4 @@
-![image](https://github.com/NghiaLeopard/jmeter/assets/127577359/68606c3f-c7ca-4a46-b188-35ba8a62f981)# JMeter
+# JMeter
 ## Kiểm tra hiệu năng trang web
 ### Mục tiêu:
 
